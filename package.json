@@ -1,6 +1,6 @@
 {
   "name": "guld-key-btc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bitcoin (BTC) guld key library.",
   "main": "index.js",
   "scripts": {
