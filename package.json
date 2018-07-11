@@ -1,6 +1,6 @@
 {
-  "name": "guld-key-btc",
-  "version": "0.0.3",
+  "name": "guld-keys-bitcoin",
+  "version": "0.0.4",
   "description": "Bitcoin (BTC) guld key library.",
   "main": "index.js",
   "scripts": {
@@ -44,5 +44,7 @@
   "readme": "README.md",
   "engines": {
     "node": ">=7"
-  }
+  },
+  "homepage": "https://github.com/isysd/tech-js-node_modules-guld-keys-bitcoin#readme",
+  "repository": "git@github.com:isysd/tech-js-node_modules-guld-keys-bitcoin.git"
 }

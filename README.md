@@ -1,3 +1,3 @@
-# keyring-interface
+# guld-keys-bitcoin
 
-A generic type object representing an asyncronous cryptography keyring.
+Bitcoin (BTC) guld key library.
